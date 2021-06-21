@@ -1,10 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
-</p>
-
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+  <h1 align="center"><b>Hello there, I'm Juan Araque 👋</b></h1>
 </p>
 
 <p align="center">
@@ -15,13 +11,11 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
+### I am a Full Stack web developer
+- 🔭 I’m currently working on a startup :grin:
+- 🌱 I’m currently learning NestJS.
+- 🥅 2021 Goals: Learn more about backend
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -37,13 +31,11 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br>
 
-
-  <summary>:zap: Github Stats</summary>
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kismusito&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="kismusito Github Stats">
 </p>
