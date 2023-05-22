@@ -12,9 +12,9 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Full Stack web developer
-- 🔭 I’m currently working on a startup :grin:
-- 🌱 I’m currently learning NestJS.
-- 🥅 2021 Goals: Learn more about backend
+- 🔭 I’m currently working on a financial company 🤓 💸
+- 🌱 I’m currently learning NextJs 13 and tailwind.
+- 🥅 2023 Goals: Convert into a Senior Front-end engineer
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
